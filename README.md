@@ -62,7 +62,7 @@ Faça o clone do projeto no Powershell
 git clone 
 
 #entre na pasta baixada
-cd ignite-conceitos-do-nodejs
+cd ignite-trabalhando-com-middlewares
 ```
 
 ### Abrindo o projeto
