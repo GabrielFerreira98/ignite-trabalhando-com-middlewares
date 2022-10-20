@@ -87,7 +87,7 @@ yarn run dev
 
 Mantenha o terminal rodando para utilizar o projeto
 
-## Middlewares
+## ☄️ Middlewares
 
 #### checksExistsUserAccount
 
@@ -106,7 +106,7 @@ Com todas as validações passando, o *todo* encontrado deve ser passado para o 
 
 Esse middleware possui um funcionamento semelhante ao middleware checksExistsUserAccount mas a busca pelo usuário deve ser feita através do id de um usuário passado por parâmetro na rota. Caso o usuário tenha sido encontrado, o mesmo deve ser repassado para dentro do request.user e a função next deve ser chamada.
 
-## Requisitos da Aplicação
+## ✔️ Requisitos da Aplicação
 
 1. Deve ser possível encontrar o user através do username no request headers e passá-lo para o request.user
 2. Não deve ser possível achar um user não existente a partir de um username no request headers
