@@ -14,11 +14,11 @@ https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee2913
 
 ## 📌 Index
 
-- [Instalando as ferramentas](https://github.com/GabrielFerreira98/ignite-conceitos-do-nodejs#-instalando-as-ferramentas)
-  - [Instalando o NodeJS](https://github.com/GabrielFerreira98/ignite-conceitos-do-nodejs#instalando-o-nodejs)
-  - [Instalando o Yarn](https://github.com/GabrielFerreira98/ignite-conceitos-do-nodejs#instalando-o-yarn)
-  - [Instalando o Insomnia](https://github.com/GabrielFerreira98/ignite-conceitos-do-nodejs#instalando-o-insomnia)
-- [Executando o Projeto](https://github.com/GabrielFerreira98/ignite-conceitos-do-nodejs#-executando-o-projeto)
+- [Instalando as ferramentas](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#-instalando-as-ferramentas)
+  - [Instalando o NodeJS](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#instalando-o-nodejs)
+  - [Instalando o Yarn](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#instalando-o-yarn)
+  - [Instalando o Insomnia](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#instalando-o-insomnia)
+- [Executando o Projeto](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#-executando-o-projeto)
 - [Inicializando o Projeto](https://github.com/GabrielFerreira98/ignite-conceitos-do-nodejs#-inicializando-o-projeto)
 - [Middlewares](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#middlewares)
 - [Requisitos da Aplicação](https://github.com/GabrielFerreira98/ignite-trabalhando-com-middlewares#requisitos-da-aplica%C3%A7%C3%A3o)
