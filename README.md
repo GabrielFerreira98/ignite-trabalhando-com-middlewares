@@ -108,4 +108,14 @@ Esse middleware possui um funcionamento semelhante ao middleware checksExistsUse
 
 ## Requisitos da Aplicação
 
-1. Deve ser
+1. Deve ser possível encontrar o user através do username no request headers e passá-lo para o request.user
+2. Não deve ser possível achar um user não existente a partir de um username no request headers
+3. Deve ser possível deixar o user criar um novo to-do quando ele possui o plano free e tem menos de 10 to-do's
+4. Não deve ser possível deixar o usuário criar um novo to-do quando ele não tem o plano pro e já possui 10 to-do's
+5. Deve ser possível deixar o usuário criar infinitos to-do's quando ele possui o plano pro
+6. Deve ser possível atualizar o user e o todo quando ambos existirem
+7. Não deve ser possível atualizar o user e o todo quando o user não existe
+8. Não deve ser possível atualizar o user e o todo quando o todo.id não é um uuid
+9. Não deve ser possível atualizar o user e o todo quando o to-do não existe
+10. Deve ser possível achar o usuário pelo route params - id - e passá-lo para o request.user
+11. Não deve ser possível passar o user para o request.user quando o user não existe
